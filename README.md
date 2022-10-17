@@ -67,7 +67,29 @@ CIRCUIT DIAGRAM
 
 
 ### PROGRAM :
- 
+```
+Name:D.R.Vinuthna
+reg no:212221230017
+ ```
+ #include<Servo.h>
+Servo s1;
+void setup()
+{
+  s1.attach(9);
+}
+void loop()
+{
+  for(int i=0;i<=100;i+=1)
+  {s1.write(120);
+  delay(15);
+}
+  for(int i=100; i>=0;i-=1)
+  {
+    s1.write(i);
+    delay(15);
+}
+}
+```
 
 
 
