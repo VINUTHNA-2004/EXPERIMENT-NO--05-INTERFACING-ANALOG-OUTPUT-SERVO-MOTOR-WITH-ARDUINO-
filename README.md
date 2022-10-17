@@ -92,7 +92,17 @@ void loop()
 }
 ```
 
+## Circuit diagram:
 
+## Off setup:
+
+## On setup:
+
+
+## Output:
+## Serial monitor:
+
+## Toggle graph:
 
 
 
