@@ -71,6 +71,7 @@ CIRCUIT DIAGRAM
 Name:D.R.Vinuthna
 reg no:212221230017
  ```
+ ```
  #include<Servo.h>
 Servo s1;
 void setup()
