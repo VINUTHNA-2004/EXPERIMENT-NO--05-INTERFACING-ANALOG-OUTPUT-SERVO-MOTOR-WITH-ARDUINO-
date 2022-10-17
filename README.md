@@ -95,15 +95,15 @@ void loop()
 ## Circuit diagram:
 
 ## Off setup:
-
+![output](https://github.com/VINUTHNA-2004/EXPERIMENT-NO--05-INTERFACING-ANALOG-OUTPUT-SERVO-MOTOR-WITH-ARDUINO-/blob/main/r1.png?raw=true)
 ## On setup:
-
+![output](https://github.com/VINUTHNA-2004/EXPERIMENT-NO--05-INTERFACING-ANALOG-OUTPUT-SERVO-MOTOR-WITH-ARDUINO-/blob/main/r2.png?raw=true)
 
 ## Output:
 ## Serial monitor:
-
+![output](https://github.com/VINUTHNA-2004/EXPERIMENT-NO--05-INTERFACING-ANALOG-OUTPUT-SERVO-MOTOR-WITH-ARDUINO-/blob/main/r3.png?raw=true)
 ## Toggle graph:
-
+![output](https://github.com/VINUTHNA-2004/EXPERIMENT-NO--05-INTERFACING-ANALOG-OUTPUT-SERVO-MOTOR-WITH-ARDUINO-/blob/main/r4.png?raw=true)
 
 
 
